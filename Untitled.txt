@@ -1,0 +1,31 @@
+git status
+
+pwd - present working directory
+
+ls -- cmd
+
+
+  CONFIGURING GIT
+
+
+git config --global user.name "my name " 
+
+git config --global user.email "someone @email"
+
+git config --list  : detail deta hai     		username email ki jo set ki
+
+        	BASIC COMAND : 
+
+CLONE :   USE TO COPY REPO
+ STATUS : 
+
+
+CD : CHANGE DIRECTORY
+
+
+ADD  : COMMIT
+
+
+
+
+ls -a  ls -force : to find the hidden file
